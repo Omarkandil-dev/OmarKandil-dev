@@ -5,7 +5,7 @@ Full stack developers take on a broad set of responsibilities. They must be flue
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [omarkandildw@gmail.com](mailto:omarkandildw@gmail.com)
-* 🚀  I'm currently working on [myportfolio](http://kandil.Com)
+* 🚀  I'm currently working on [myportfolio]
 * 🧠  I'm learning react.js
 * 🤝  I'm open to collaborating on intersting projects
 
