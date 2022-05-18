@@ -7,7 +7,6 @@ kandil.com
 Full stack developers take on a broad set of responsibilities. They must be fluent in creating websites with a robust internal architecture and delivering an interactive and intuitive interface to clients. A full stack developer must be well-versed in HTML, CSS, and JavaScript and know their way around back end technologies and database structures.
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [kandil.com](http://kandil.Com)
 * ✉️  You can contact me at [omarkandildw@gmail.com](mailto:omarkandildw@gmail.com)
 * 🚀  I'm currently working on [myportfolio](http://kandil.Com)
 * 🧠  I'm learning react.js
