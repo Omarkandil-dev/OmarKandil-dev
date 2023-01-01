@@ -1,15 +1,29 @@
-Hi 👋 My name is Omar Kandil
-============================
+## Hello World 🌍
+
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
+
+### 💫About Me :
+👨‍🎓 I am a BCA Student
+
+❤️ I love Technology
+
+🧑‍💻 I'm the one who builds for the Web
+
+🎵 Listening to Music is love ❤️
 
 
-### Socials
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
 
-<p align="left"> <a href="https://www.github.com/OmarKandil-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omar_ka03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omarkandil-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+👆Above is link to my Instagram Page (@coding_dev_) where I upload daily posts on Web Development.
 
-### Badges
+<h3 align="left">Other Tools:</h3>
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
 
-<a href="http://www.github.com/OmarKandil-dev"><img src="https://github-readme-stats.vercel.app/api?username=OmarKandil-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmarKandil-dev's GitHub stats" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&" alt="tilakjain123" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+If you like my work on Instagram or else where, you can buy me a coffee. Thank You 😊
+
+<a href="https://www.buymeacoffee.com/codingdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
