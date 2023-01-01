@@ -19,9 +19,9 @@
 
 <h3 align="left">Other Tools:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarkandil-dev&show_icons=true&locale=en" alt="omarkandil-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&" alt="tilakjain123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkandil-dev&" alt="omarkandil-dev" /></p>
 
 ---
 If you like my work on Instagram or else where, you can buy me a coffee. Thank You 😊
