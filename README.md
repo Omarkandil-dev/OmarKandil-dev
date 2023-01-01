@@ -13,9 +13,7 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
-
-👆Above is link to my Instagram Page (@coding_dev_) where I upload daily posts on Web Development.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_ka03)
 
 <h3 align="left">Other Tools:</h3>
 
@@ -24,6 +22,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkandil-dev&" alt="omarkandil-dev" /></p>
 
 ---
-If you like my work on Instagram or else where, you can buy me a coffee. Thank You 😊
-
 <a href="https://www.buymeacoffee.com/codingdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
